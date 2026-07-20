@@ -1,0 +1,30 @@
+
+---
+
+## Markdown basics
+
+| You type | It shows as |
+|----------|-------------|
+| `# Title` | Large heading |
+| `## Section` | Smaller heading |
+| `- item` | Bullet list |
+| `` `code` `` | Inline code |
+| `[text](url)` | Link |
+
+---
+
+## Tips
+
+1. **Exact name:** `README.md` (capital README, `.md` extension).
+2. **Location:** project root (same level as `.gitignore`, `LICENSE`).
+3. **First commit:** include README with license and `.gitignore` if the assignment wants one scaffold commit.
+
+---
+
+## After you create it
+
+1. Push to GitHub (if local).
+2. Refresh **https://github.com/Oriba-Sahar05/capstone-project** — README should appear on the main page.
+3. Ask Cursor to critique it and apply one improvement (part of your assignment).
+
+If you want, I can give you a **full README** tailored to your capstone app idea — say what you’re building (e.g. todo app, blog, API).
