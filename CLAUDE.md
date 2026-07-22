@@ -46,3 +46,15 @@ When helping on this project:
 cd /c/Users/adeel/onedrive/desktop/webdev/github/capstone-project
 npm install          # when package.json exists
 npm run dev          # when dev script exists
+
+## Project Rules (learned from prompting comparison drill)
+
+1. Forms must validate on both the field level (inline errors) and
+   on submit — never rely only on submit-time validation.
+2. Every form input must have a real <label for="..."> element —
+   placeholder text is not an acceptable substitute for a label.
+3. Any password/text validation must explicitly reject
+   whitespace-only input, not just empty-string input.
+4. When asking AI to build a feature involving validation, always
+   include a verification step ("write tests, run them, show me
+   the output") — skipping this let a bug through in testing.
